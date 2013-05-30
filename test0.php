@@ -1,2 +1,2 @@
+PAGE HEAD
 <?php phpinfo(); ?>
-echo "END\n";
